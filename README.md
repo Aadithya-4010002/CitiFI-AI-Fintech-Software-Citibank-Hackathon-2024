@@ -105,15 +105,9 @@ Follow these steps to set up the project locally:
 
 ## 📊 Visuals
 
-### Home Page  
-![Home Page](images/home_page.png)  
-
-### AI Insights Dashboard  
-![Dashboard](images/insights_dashboard.png)  
-
-### Financial Literacy Module  
-![Literacy Module](images/literacy_guidance.png)  
-
+## 📑 Presentation and Demo  
+- **[Click for Presentation](https://drive.google.com/file/d/1umEgdZNH6bhbvbjafPExWKI9tw-cQyOE/view?usp=drivesdk)**  
+- **[Watch Demo Video](https://docs.google.com/presentation/d/1lmczTURp1WPXeC9zmeygqwUNgZ95_ahq/edit?usp=sharing&ouid=108010539970971969304&rtpof=true&sd=true)**  
 
 ---
 
@@ -122,12 +116,6 @@ Follow these steps to set up the project locally:
 2. Provide real-time insights for smarter financial decisions.  
 3. Empower underprivileged groups with targeted financial literacy.  
 4. Ensure robust data privacy with industry-standard security.
-
----
-
-## 📑 Presentation and Demo  
-- **[Click for Presentation](#)**  
-- **[Watch Demo Video](#)**  
 
 ---
 
