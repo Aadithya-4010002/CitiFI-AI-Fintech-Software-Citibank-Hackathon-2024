@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default function removeClasses() {\n  const swiper = this;\n  const {\n    el,\n    classNames\n  } = swiper;\n  el.classList.remove(...classNames);\n  swiper.emitContainerClasses();\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

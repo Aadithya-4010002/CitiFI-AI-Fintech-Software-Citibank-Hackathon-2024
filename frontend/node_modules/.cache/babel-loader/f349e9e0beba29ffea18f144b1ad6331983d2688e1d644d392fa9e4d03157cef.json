@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default function classesToSelector(classes = '') {\n  return `.${classes.trim().replace(/([\\.:!+\\/])/g, '\\\\$1') // eslint-disable-line\n  .replace(/ /g, '.')}`;\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

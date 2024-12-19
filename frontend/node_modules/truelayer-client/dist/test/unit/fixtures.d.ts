@@ -1,0 +1,33 @@
+import { IMe } from "../../src/v1/interfaces/data/IMe";
+import { IResult } from "../../src/v1/interfaces/data/IResponse";
+import { IInfo } from "../../src/v1/interfaces/data/IInfo";
+import { IAccount } from "../../src/v1/interfaces/data/IAccount";
+import { IBalance } from "../../src/v1/interfaces/data/IBalance";
+import { ITransaction } from "../../src/v1/interfaces/data/ITransaction";
+import { ICard } from "../../src/v1/interfaces/data/ICard";
+import { ICardBalance } from "../../src/v1/interfaces/data/ICardBalance";
+import { ICardTransaction } from "../../src/v1/interfaces/data/ICardTransaction";
+import { IProviderInfo } from '../../src/v1/interfaces/auth/IProviderInfo';
+import { IStatusInfo } from "../../src/v1/interfaces/status/IStatusInfo";
+import { IStandingOrder } from "../../src/v1/interfaces/data/IStandingOrder";
+import { IDirectDebit } from "../../src/v1/interfaces/data/IDirectDebit";
+export declare class Fixtures {
+    readonly accessToken: string;
+    readonly requestOptions: object;
+    readonly requestOptionsQs: object;
+    readonly authResponse: string;
+    readonly meResponse: IResult<IMe>;
+    readonly infoResponse: IResult<IInfo>;
+    readonly accountsResponse: IResult<IAccount>;
+    readonly accountResponse: IResult<IAccount>;
+    readonly accountBalanceResponse: IResult<IBalance>;
+    readonly accountTransactionsResponse: IResult<ITransaction>;
+    readonly cardsResponse: IResult<ICard>;
+    readonly cardResponse: IResult<ICard>;
+    readonly cardBalanceResponse: IResult<ICardBalance>;
+    readonly accountStandingOrderResponse: IResult<IStandingOrder>;
+    readonly accountDirectDebitResponse: IResult<IDirectDebit>;
+    readonly cardTransactionsResponse: IResult<ICardTransaction>;
+    readonly providersResponse: IProviderInfo[];
+    readonly statusResponse: IResult<IStatusInfo>;
+}
