@@ -33,6 +33,16 @@ Our AI-driven financial relationship manager is an innovative platform designed 
 
 ---
 
+## 📊 Visuals
+
+## 📑 Presentation and Demo  
+
+- **[Watch Demo Video](https://drive.google.com/file/d/1umEgdZNH6bhbvbjafPExWKI9tw-cQyOE/view?usp=drivesdk)** 
+
+- **[Click for Presentation](https://docs.google.com/presentation/d/1lmczTURp1WPXeC9zmeygqwUNgZ95_ahq/edit?usp=sharing&ouid=108010539970971969304&rtpof=true&sd=true)**
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend  
@@ -100,16 +110,8 @@ Follow these steps to set up the project locally:
    ```
 
 4. Access the platform at `http://localhost:3000`.
-
----
-
-## 📊 Visuals
-
-## 📑 Presentation and Demo  
-- **[Click for Presentation](https://drive.google.com/file/d/1umEgdZNH6bhbvbjafPExWKI9tw-cQyOE/view?usp=drivesdk)**  
-- **[Watch Demo Video](https://docs.google.com/presentation/d/1lmczTURp1WPXeC9zmeygqwUNgZ95_ahq/edit?usp=sharing&ouid=108010539970971969304&rtpof=true&sd=true)**  
-
----
+ 
+ ----
 
 ## 🛡️ Why Build This?  
 1. Simplify financial management with secure bank account integration.  
